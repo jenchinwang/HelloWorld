@@ -1,3 +1,2 @@
 this is a new file.
 add a new line.
-undo a commit.
